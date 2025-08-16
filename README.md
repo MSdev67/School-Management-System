@@ -1,38 +1,75 @@
-# SchoolManager - Modern School Management System
+SchoolManager - Modern School Management System
+A comprehensive, full-stack school management solution built with Next.js, Express.js, and MongoDB. Designed to streamline educational administration with powerful features and modern technology.
 
-A powerful, modern school management system built with React, Supabase, and Tailwind CSS. Streamline student, teacher, class, attendance, and grade management with an intuitive dashboard.
+✨ Features
+Core Modules
+📊 Dashboard - Real-time analytics and institutional overview
 
-## ✨ Features
+👨‍🎓 Student Management - Complete student profiles with academic tracking
 
-### Core Modules
-- 📊 **Dashboard** - Real-time analytics and overview
-- 👨‍🎓 **Student Management** - Track student profiles and progress
-- 👩‍🏫 **Teacher Management** - Manage faculty information
-- � **Class Management** - Organize courses and schedules
-- ✅ **Attendance Tracking** - Daily presence recording
-- 📝 **Grade Management** - Performance evaluation system
-- 📈 **Reports** - Generate performance insights
-- ⚙️ **Settings** - System configuration
+👩‍🏫 Teacher Management - Faculty information and performance monitoring
 
-### Dashboard Highlights
-- Real-time statistics and metrics
-- Recent activity feed
-- Today's schedule overview
-- Performance trends (+12% growth shown)
-- Quick access to all modules
+🏫 Class Management - Course organization and scheduling system
 
-## 🛠️ Technology Stack
+✅ Attendance Tracking - Daily presence recording with analytics
 
-- **Frontend**: React + TypeScript + Vite
-- **Styling**: Tailwind CSS with custom design system
-- **UI Components**: Shadcn/ui
-- **Backend**: Supabase (Authentication + Database)
-- **Deployment**: Vercel/Netlify ready
+📝 Grade Management - Comprehensive evaluation system
 
-## 🚀 Getting Started
+📈 Reporting - Customizable performance insights
 
-### Prerequisites
-- Node.js (v18+)
-- Git
-- Supabase account (free tier available)
-# School-Management-System
+⚙️ System Configuration - Flexible institution settings
+
+Dashboard Highlights
+Live institutional statistics and KPIs
+
+Activity monitoring feed
+
+Daily schedule visualization
+
+Performance analytics (example: +12% growth shown)
+
+Quick navigation to all management modules
+
+🛠️ Technology Stack
+Frontend
+Framework: Next.js (React) with TypeScript
+
+Styling: Tailwind CSS with responsive design
+
+UI Components: Custom design system with accessibility focus
+
+Backend
+API Layer: Express.js RESTful API
+
+Database: MongoDB with Mongoose ODM
+
+Authentication: JWT with role-based access control
+
+Deployment
+Ready for Vercel, Netlify, or traditional hosting
+
+Docker support for containerized deployment
+
+🚀 Getting Started
+Prerequisites
+Node.js (v18+ recommended)
+
+MongoDB Atlas account or local MongoDB instance
+
+Git version control
+
+Yarn or npm package manager
+
+Installation
+Clone the repository
+
+Install dependencies: yarn install or npm install
+
+Configure environment variables
+
+Start development server: yarn dev or npm run dev
+
+📚 Documentation
+Full technical documentation and API references available in the project's wiki. Includes setup guides, deployment instructions, and module-specific implementation details.
+
+This modern architecture provides enhanced performance, better SEO capabilities through Next.js, and the flexibility of a dedicated backend with Express.js while maintaining all the powerful features of a complete school management system.
